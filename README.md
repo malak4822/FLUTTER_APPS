@@ -110,7 +110,8 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 
 
 ## Links
-<img src='https://lh3.googleusercontent.com/dYn4yZ9BJiS5N-dnHTF_F5ynLWUf3ebSXuO59TQV9_u-ivBC14lWy5-8HAAq-Rx6s3KJ' width='22' style="border-radius: 40px;"> [Google Play](https://play.google.com/store/apps/details?id=com.praktykiszkolne.malaq)
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px;"> [Google Play](https://play.google.com/store/apps/details?id=com.praktykiszkolne.malaq)
+
 
 ## Features
 - User Profiles
